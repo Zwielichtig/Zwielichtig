@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💀 About Me:
 I'm a backend web developer & homlab enthusiast looking for new challenges!<br>Currently learning and exploring RUST development! 🦀
 
 
